@@ -42,8 +42,11 @@
 
 ### GitHub Stats:
 <!-- Your GitHub stats -->
+<p align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chester991&show_icons=true&locale=en&layout=compact" alt="Top Langs" width="40%" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chester991&show_icons=true&locale=en" alt="GitHub stats" width="40%" height="165px" />
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chester991&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chester991&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chester991&" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chester991&" alt="GitHub streak stats" width="80%" height="190px" />
 </p>
