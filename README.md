@@ -18,7 +18,7 @@
 [<img align="left" alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835">](https://www.leetcode.com/salamander4855)
 [<img align="left" alt="Discord" width="40px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">](https://discordapp.com/users/895733058416832583)
 [<img align="left" alt="GeeksforGeeks" width="40px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png">](https://auth.geeksforgeeks.org/user/ayushbalwani991/practice/)
-[<img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">](https://www.hackerrank.com/ayushbalwani991?hr_r=1)
+[<img align="left" alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">](https://www.hackerrank.com/ayushbalwani991?hr_r=1)
 
 
 
